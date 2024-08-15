@@ -4,7 +4,7 @@
 <div>  
 <h2 align="center">-- 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 --</h2>
   <div align="center">
-<img src="https://tenor.com/bTfot.gif" align="right"/>
+<img src="https://id.pinterest.com/pin/101260691613525106/" align="right"/>
   </div>
 <table id="table_01" border="0px">
 		<tr>
@@ -35,7 +35,6 @@
   </div>
 </div>
 <div>
-  <br>
 <p align="center">
 <img src="https://img.shields.io/badge/Adobe%20after%20affects-CF96FD?style=for-the-badge&logo=Adobe%20after%20effects&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=white">
