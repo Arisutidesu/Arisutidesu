@@ -57,7 +57,7 @@
 <div>
 <h2 align="center">-- 𝓣𝓱𝓪𝓷𝓴𝓼 𝓯𝓸𝓻 𝓻𝓮𝓪𝓭𝓲𝓷𝓰 --</h2>
 <div align="center">
-<img src="https://tenor.com/cwyYZAc87Ja.gif"/>
+<img src="https://tenor.com/view/nero-gif-1981833799694376230"/>
 </div>
 <br>
 </div>
