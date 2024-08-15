@@ -4,7 +4,7 @@
 <div>  
 <h2 align="center">-- 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 --</h2>
   <div align="center">
-<img src="https://i.imgur.com/jx17oHT.gif">" align="right"/>
+<img src="https://i.imgur.com/jx17oHT.gif" align="right"/>
   </div>
 <table id="table_01" border="0px">
 		<tr>
