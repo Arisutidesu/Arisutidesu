@@ -4,9 +4,9 @@
 <div>  
 <h2 align="center">-- 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 --</h2>
   <div align="center">
-<img src="https://tenor.com/bTfot.gif" align="right">
+<img src="https://tenor.com/bTfot.gif" align="right"/>
   </div>
-<table id="table_01">
+<table id="table_01" border="0px">
 		<tr>
 			<td>Name</td>
 			<td>Arisu</td>
@@ -25,14 +25,13 @@
 		</tr>
 </table>
 <p>I'm learning something I don't know yet, while I can understand it, why don't I do it </p>
-<br><br><br>
 </div>
 <div>
 <h2 align="center">-- 𝓚𝓷𝓸𝔀𝓵𝓮𝓭𝓰𝓮 --</h2>
  <br>
 <p>
   <div align="center">
-<img src="https://tenor.com/b1IH9.gif" align="right">
+<img src="https://tenor.com/b1IH9.gif" align="right"/>
   </div>
 </div>
 <div>
@@ -47,7 +46,6 @@
 <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/> <br><br>
 </p>
-<br>
 <div>  
 <h2 align="center">-- 𝓐𝓷𝓪𝓵𝔂𝓬𝓽𝓲𝓬𝓼 --</h2>
 <p align="center">
@@ -60,7 +58,7 @@
 <div>
 <h2 align="center">-- 𝓣𝓱𝓪𝓷𝓴𝓼 𝓯𝓸𝓻 𝓻𝓮𝓪𝓭𝓲𝓷𝓰 --</h2>
 <div align="center">
-<img src="https://tenor.com/cwyYZAc87Ja.gif">
+<img src="https://tenor.com/cwyYZAc87Ja.gif"/>
 </div>
 <br>
 </div>
