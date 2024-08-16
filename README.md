@@ -50,7 +50,7 @@ I'm learning something I don't know yet, while I can understand it, why don't I 
 <div>
 <h2 align="center">-- 𝓣𝓱𝓪𝓷𝓴𝓼 𝓯𝓸𝓻 𝓻𝓮𝓪𝓭𝓲𝓷𝓰 --</h2>
   <div align="center">
-<img height="270cm" src="https://tenor.com/view/zeta-%E3%82%BC%E3%83%BC%E3%82%BF-%E3%83%9B%E3%83%AD%E3%83%A9%E3%82%A4%E3%83%96-vestia-zeta-hololive-id-gif-6168091081382311855.gif">
+<img height="270cm" src="https://tenor.com/view/zeta-vestia-zeta-zeta-3d-vestia-zeta-3d-hololive-gif-14209641006579752201.gif">
   </div>
 </div>
     </center>
