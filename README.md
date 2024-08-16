@@ -1,11 +1,13 @@
 <body>
   <center>
 <h1 align="center">-- 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓟𝓻𝓸𝓯𝓲𝓵𝓮 👋 --</h1>
-  <img src="https://tenor.com/view/vtuber-chainavt-chainavtuber-chileno-vtuber-chileno-gif-3088427928668089111.gif" align="center">
+  <div align="center">    
+<img src="https://tenor.com/view/vtuber-chainavt-chainavtuber-chileno-vtuber-chileno-gif-3088427928668089111.gif" style="width: 120 px">
+  </div>  
 <div>  
 <h2 align="center">-- 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 --</h2>
   <div align="center">
-<img src="https://tenor.com/view/neuro-sama-ai-vtuber-jamming-gif-15515741698909400930.gif" align="right">
+<img src="https://tenor.com/view/neuro-sama-ai-vtuber-jamming-gif-15515741698909400930.gif" align="right" style="width: 100 px">
   </div>
 <p>
 <br>* 🔭 My name is Arisutidesu, you can call me Arisu
