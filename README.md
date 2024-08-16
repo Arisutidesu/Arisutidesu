@@ -1,16 +1,16 @@
 <body>
   <center>
-<h1 align="center">-- 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓟𝓻𝓸𝓯𝓲𝓵𝓮 👋 --</h1>
+<h1 align="center">𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓟𝓻𝓸𝓯𝓲𝓵𝓮 👋</h1>
   <div align="center">    
 <img height="270cm" src="https://tenor.com/view/vtuber-chainavt-chainavtuber-chileno-vtuber-chileno-gif-3088427928668089111.gif">
   </div>  
 <div>  
-<h2 align="center">-- 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 --</h2>
+<h2 align="center">𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 🗿</h2>
   <div align="center">
 <img height="200cm" width="180cm" src="https://tenor.com/view/neuro-sama-ai-vtuber-jamming-gif-15515741698909400930.gif" align="right">
   </div>
 <p>
-<br>* 🔭 My name is Arisutidesu, you can call me Arisu
+<br>* 😁 My name is Arisutidesu, you can call me Arisu
 <br>* 💖 I like anime and also vtubers
 <br>* 📇 I have skills that I continue to learn such as Web Development, Live2D Rigging, Video Editing, Animation
 <br>* 🤝🏻 Pronouns: He/Him
@@ -20,7 +20,7 @@ I'm learning something I don't know yet, while I can understand it, why don't I 
 </p>
   </div>
 <div>
-<h2 align="center">-- 𝓚𝓷𝓸𝔀𝓵𝓮𝓭𝓰𝓮 --</h2>
+<h2 align="center">𝓚𝓷𝓸𝔀𝓵𝓮𝓭𝓰𝓮 💻</h2>
 <div>
 <p align="center">
 <img src="https://img.shields.io/badge/Adobe%20after%20affects-CF96FD?style=for-the-badge&logo=Adobe%20after%20effects&logoColor=white"/> 
@@ -37,7 +37,7 @@ I'm learning something I don't know yet, while I can understand it, why don't I 
 </div>
 </div>
 <div>  
-<h2 align="center">-- 𝓐𝓷𝓪𝓵𝔂𝓬𝓽𝓲𝓬𝓼 --</h2>
+<h2 align="center">𝓐𝓷𝓪𝓵𝔂𝓬𝓽𝓲𝓬𝓼 🔎</h2>
 <p align="center">
 <a href="https://github.com/Arisutidesu">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bintanxmv&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1"/>
@@ -48,7 +48,7 @@ I'm learning something I don't know yet, while I can understand it, why don't I 
 </p>
 </div>
 <div>
-<h2 align="center">-- 𝓣𝓱𝓪𝓷𝓴𝓼 𝓯𝓸𝓻 𝓻𝓮𝓪𝓭𝓲𝓷𝓰 --</h2>
+<h2 align="center">𝓣𝓱𝓪𝓷𝓴𝓼 𝓯𝓸𝓻 𝓻𝓮𝓪𝓭𝓲𝓷𝓰 🤗</h2>
   <div align="center">
 <img height="270cm" src="https://tenor.com/view/zeta-vestia-zeta-zeta-3d-vestia-zeta-3d-hololive-gif-14209641006579752201.gif">
   </div>
