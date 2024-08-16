@@ -12,7 +12,7 @@
 <p>
 <br>* 😁 My name is Arisutidesu, you can call me Arisu
 <br>* 💖 I like anime and also vtubers
-<br>* 📇 I have skills that I continue to learn such as Web Development, Live2D Rigging, Video Editing, Animation
+<br>* 📇 I have skills that I continue to learn such as Web Development, Video Editing, Animation
 <br>* 🤝🏻 Pronouns: He/Him
 <br>* ✉️ aristidesbima@gmail.com
 <br><br>
