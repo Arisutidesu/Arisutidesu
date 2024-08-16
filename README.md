@@ -2,12 +2,12 @@
   <center>
 <h1 align="center">-- 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓟𝓻𝓸𝓯𝓲𝓵𝓮 👋 --</h1>
   <div align="center">    
-<img src="https://tenor.com/view/vtuber-chainavt-chainavtuber-chileno-vtuber-chileno-gif-3088427928668089111.gif" width="75cm" height="75cm">
+<img height="200cm" src="https://tenor.com/view/vtuber-chainavt-chainavtuber-chileno-vtuber-chileno-gif-3088427928668089111.gif">
   </div>  
 <div>  
 <h2 align="center">-- 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 --</h2>
   <div align="center">
-<img src="https://tenor.com/view/neuro-sama-ai-vtuber-jamming-gif-15515741698909400930.gif" align="right" width="50cm" height="50cm">
+<img height="200cm" src="https://tenor.com/view/neuro-sama-ai-vtuber-jamming-gif-15515741698909400930.gif" align="right">
   </div>
 <p>
 <br>* 🔭 My name is Arisutidesu, you can call me Arisu
@@ -22,7 +22,6 @@ I'm learning something I don't know yet, while I can understand it, why don't I 
 <br><br>
 <div>
 <h2 align="center">-- 𝓚𝓷𝓸𝔀𝓵𝓮𝓭𝓰𝓮 --</h2>
- <br>
 <div>
 <p align="center">
 <img src="https://img.shields.io/badge/Adobe%20after%20affects-CF96FD?style=for-the-badge&logo=Adobe%20after%20effects&logoColor=white"/> 
@@ -50,11 +49,11 @@ I'm learning something I don't know yet, while I can understand it, why don't I 
 </p>
 </div>
 <div>
+<br><br>
 <h2 align="center">-- 𝓣𝓱𝓪𝓷𝓴𝓼 𝓯𝓸𝓻 𝓻𝓮𝓪𝓭𝓲𝓷𝓰 --</h2>
   <div align="center">
-<img src="https://tenor.com/view/vestia-zeta-zeta-vestia-smile-gif-18299280761515226965.gif" width="75cm" height="75cm">
+<img height="200cm" src="https://tenor.com/view/neuro-sama-ai-vtuber-jamming-gif-15515741698909400930.gif">
   </div>
-<br>
 </div>
     </center>
 </body>
