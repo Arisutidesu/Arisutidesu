@@ -2,12 +2,12 @@
   <center>
 <h1 align="center">-- 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓟𝓻𝓸𝓯𝓲𝓵𝓮 👋 --</h1>
   <div align="center">    
-<img height="200cm" src="https://tenor.com/view/vtuber-chainavt-chainavtuber-chileno-vtuber-chileno-gif-3088427928668089111.gif">
+<img height="270cm" src="https://tenor.com/view/vtuber-chainavt-chainavtuber-chileno-vtuber-chileno-gif-3088427928668089111.gif">
   </div>  
 <div>  
 <h2 align="center">-- 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 --</h2>
   <div align="center">
-<img height="200cm" src="https://tenor.com/view/neuro-sama-ai-vtuber-jamming-gif-15515741698909400930.gif" align="right">
+<img height="200cm" width="180cm" src="https://tenor.com/view/neuro-sama-ai-vtuber-jamming-gif-15515741698909400930.gif" align="right">
   </div>
 <p>
 <br>* 🔭 My name is Arisutidesu, you can call me Arisu
@@ -19,7 +19,6 @@
 I'm learning something I don't know yet, while I can understand it, why don't I do it
 </p>
   </div>
-<br><br>
 <div>
 <h2 align="center">-- 𝓚𝓷𝓸𝔀𝓵𝓮𝓭𝓰𝓮 --</h2>
 <div>
@@ -49,10 +48,9 @@ I'm learning something I don't know yet, while I can understand it, why don't I 
 </p>
 </div>
 <div>
-<br><br>
 <h2 align="center">-- 𝓣𝓱𝓪𝓷𝓴𝓼 𝓯𝓸𝓻 𝓻𝓮𝓪𝓭𝓲𝓷𝓰 --</h2>
   <div align="center">
-<img height="200cm" src="https://tenor.com/view/neuro-sama-ai-vtuber-jamming-gif-15515741698909400930.gif">
+<img height="270cm" src="https://tenor.com/view/zeta-%E3%82%BC%E3%83%BC%E3%82%BF-%E3%83%9B%E3%83%AD%E3%83%A9%E3%82%A4%E3%83%96-vestia-zeta-hololive-id-gif-6168091081382311855.gif">
   </div>
 </div>
     </center>
