@@ -2,12 +2,12 @@
   <center>
 <h1 align="center">-- 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓟𝓻𝓸𝓯𝓲𝓵𝓮 👋 --</h1>
   <div align="center">    
-<img src="https://tenor.com/view/vtuber-chainavt-chainavtuber-chileno-vtuber-chileno-gif-3088427928668089111.gif" width="75cm">
+<img src="https://tenor.com/view/vtuber-chainavt-chainavtuber-chileno-vtuber-chileno-gif-3088427928668089111.gif" width="75cm" height="75cm">
   </div>  
 <div>  
 <h2 align="center">-- 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 --</h2>
   <div align="center">
-<img src="https://tenor.com/view/neuro-sama-ai-vtuber-jamming-gif-15515741698909400930.gif" align="right" width="50cm">
+<img src="https://tenor.com/view/neuro-sama-ai-vtuber-jamming-gif-15515741698909400930.gif" align="right" width="50cm" height="50cm">
   </div>
 <p>
 <br>* 🔭 My name is Arisutidesu, you can call me Arisu
@@ -36,6 +36,8 @@ I'm learning something I don't know yet, while I can understand it, why don't I 
 <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
 <br><br>
 </p>
+</div>
+</div>
 <div>  
 <h2 align="center">-- 𝓐𝓷𝓪𝓵𝔂𝓬𝓽𝓲𝓬𝓼 --</h2>
 <p align="center">
@@ -50,10 +52,9 @@ I'm learning something I don't know yet, while I can understand it, why don't I 
 <div>
 <h2 align="center">-- 𝓣𝓱𝓪𝓷𝓴𝓼 𝓯𝓸𝓻 𝓻𝓮𝓪𝓭𝓲𝓷𝓰 --</h2>
   <div align="center">
-<img src="https://tenor.com/view/vestia-zeta-zeta-vestia-smile-gif-18299280761515226965.gif" width="75cm"/>
+<img src="https://tenor.com/view/vestia-zeta-zeta-vestia-smile-gif-18299280761515226965.gif" width="75cm" height="75cm">
   </div>
 <br>
-</div>
 </div>
     </center>
 </body>
