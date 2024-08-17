@@ -7,7 +7,7 @@
 <div>  
 <h2 align="center">𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 🗿</h2>
   <div align="center">
-<img height="200cm" width="180cm" src="https://tenor.com/view/neuro-sama-ai-vtuber-jamming-gif-15515741698909400930.gif" align="right">
+<img height="180cm" width="140cm" src="https://tenor.com/view/neuro-sama-ai-vtuber-jamming-gif-15515741698909400930.gif" align="right">
   </div>
 <p>
 <br>* 😁 My name is Arisutidesu, you can call me Arisu
