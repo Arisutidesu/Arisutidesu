@@ -2,12 +2,12 @@
   <center>
 <h1 align="center">𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓟𝓻𝓸𝓯𝓲𝓵𝓮 👋</h1>
   <div align="center">    
-<img height="270cm" src="https://tenor.com/view/minato-aqua-vtuber-virtual-youtuber-blushing-blow-kiss-gif-17267169.gif">
+<img height="270cm" src="https://tenor.com/view/hoshimachi-suisei-hoshimachi-suisei-3d-hololive-gif-24014598.gif">
   </div>  
 <div>  
 <h2 align="center">𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 🗿</h2>
   <div align="center">
-<img height="180cm" width="140cm" src="https://tenor.com/view/neuro-sama-ai-vtuber-jamming-gif-15515741698909400930.gif" align="right">
+<img height="180cm" width="140cm" src="https://tenor.com/view/ayunda-risu-risu_meme-hololive-id-hololive-indonesia-smug-gif-21939653.gif" align="right">
   </div>
 <p>
 <br>* 😁 My name is Arisutidesu, you can call me Arisu
