@@ -7,7 +7,7 @@
 <div>  
 <h2 align="center">𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 🗿</h2>
   <div align="center">
-<img height="180cm" width="140cm" src="https://tenor.com/view/ayunda-risu-risu_meme-hololive-id-hololive-indonesia-smug-gif-21939653.gif" align="right">
+<img height="180cm" width="140cm" src="https://tenor.com/view/nyaa-alien-yopi-hololive-vtuber-gif-20232757" align="right">
   </div>
 <p>
 <br>* 😁 My name is Arisutidesu, you can call me Arisu
