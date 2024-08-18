@@ -2,7 +2,7 @@
   <center>
 <h1 align="center">𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓟𝓻𝓸𝓯𝓲𝓵𝓮 👋</h1>
   <div align="center">    
-<img height="270cm" src="https://tenor.com/view/vtuber-chainavt-chainavtuber-chileno-vtuber-chileno-gif-3088427928668089111.gif">
+<img height="270cm" src="https://tenor.com/view/minato-aqua-vtuber-virtual-youtuber-blushing-blow-kiss-gif-17267169.gif">
   </div>  
 <div>  
 <h2 align="center">𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 🗿</h2>
