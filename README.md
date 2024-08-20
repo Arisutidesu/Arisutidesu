@@ -41,8 +41,8 @@ I'm learning something I don't know yet, while I can understand it, why don't I 
 <h2 align="center">𝓐𝓷𝓪𝓵𝔂𝓬𝓽𝓲𝓬𝓼 🔎</h2>
 <p align="center">
 <a href="https://github.com/Arisutidesu">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Arisutidesu&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Arisutidesu&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Arisutidesu&show_icons=true&theme=dracula" alt="Arisutidesu">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Arisutidesu&layout=compact&langs_count=8&theme=dracula"/>
   <img height="180cm" src="https://streak-stats.demolab.com?user=Arisutidesu&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3"/>
   <img height="150cm" src="https://github-profile-trophy.vercel.app?username=Arisutidesu&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4"/>
 </a>
