@@ -2,7 +2,7 @@
   <center>
 <h1 align="center">𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓟𝓻𝓸𝓯𝓲𝓵𝓮 👋</h1>
   <div align="center">    
-<img height="270cm" src="https://tenor.com/view/hoshimachi-suisei-hoshimachi-suisei-3d-hololive-gif-24014598.gif">
+https://readme-typing-svg.herokuapp.com/?font=Monaco&size=40&color=FFFF00&center=true&vCenter=true&width=500&height=70&duration=6000&lines=Hi+There!+👋;+I'm+Arisu+✌️;
   </div>  
 <div>  
 <h2 align="center">𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 🗿</h2>
@@ -13,7 +13,7 @@
 <br>* 😁 My name is Arisutidesu, you can call me Arisu
 <br>* 💖 I like anime and also vtubers
 <br>* 📇 I have skills that I continue to learn such as Web Development, Video Editing, Animation
-<br>* 🤝🏻 Pronouns: He/Him
+<br>* 🤝🏻 He/Him
 <br>* ✉️ aristidesbima@gmail.com
 <br><br>
 I'm learning something I don't know yet, while I can understand it, why don't I do it
@@ -31,7 +31,7 @@ I'm learning something I don't know yet, while I can understand it, why don't I 
 <br>
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+<img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=white"/>
 <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
 <br><br>
 </p>
