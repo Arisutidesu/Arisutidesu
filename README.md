@@ -1,7 +1,8 @@
 <body>
   <center>
 <h1 align="center">𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓟𝓻𝓸𝓯𝓲𝓵𝓮 👋</h1>
-  <div align="center">    
+  <div align="center">
+![Hit Counter](https://count.getloli.com/get/@:Arisutidesu?theme=gelbooru)
 <img src="https://readme-typing-svg.herokuapp.com/?font=Monaco&size=40&color=FF69B4&center=true&vCenter=true&width=500&height=70&duration=6000&lines=Hi+There!;+I'm+Arisu+✌️;"/>
   </div>  
 <div>  
