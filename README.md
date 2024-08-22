@@ -2,7 +2,7 @@
   <center>
 <h1 align="center">𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓟𝓻𝓸𝓯𝓲𝓵𝓮 👋</h1>
   <div align="center">    
-https://readme-typing-svg.herokuapp.com/?font=Monaco&size=40&color=FFFF00&center=true&vCenter=true&width=500&height=70&duration=6000&lines=Hi+There!+👋;+I'm+Arisu+✌️;
+<img src="https://readme-typing-svg.herokuapp.com/?font=Monaco&size=40&color=FF69B4&center=true&vCenter=true&width=500&height=70&duration=6000&lines=Hi+There!;+I'm+Arisu+✌️;"/>
   </div>  
 <div>  
 <h2 align="center">𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 🗿</h2>
